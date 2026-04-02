@@ -54,12 +54,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdgus3488&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgus3488&layout=compact)
 
 ---
 
 ## 📫 Contact
 
 - Email: tjdgus3488@naver.com
-- Portfolio: (노션 링크 넣기)
