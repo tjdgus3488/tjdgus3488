@@ -54,8 +54,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdgus3488&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgus3488&layout=compact)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tjdgus3488&show_icons=true&theme=default&hide=stars&count_private=true))
 
 ---
 
