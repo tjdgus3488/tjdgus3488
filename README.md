@@ -1,3 +1,5 @@
+
+
 ##  배성현
 Backend Developer
 ## 🛠 Tech Stack
@@ -37,6 +39,6 @@ Backend Developer
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tjdgus3488&show_icons=true&theme=default&hide=issues&cache_seconds=3600)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tjdgus3488&show_icons=true&theme=default&hide=stars&count_private=true)
 
 ---
