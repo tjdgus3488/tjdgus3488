@@ -31,7 +31,7 @@ Backend Developer
 
 ## 🧩 Experience
 ```
-2025.03 ~           SOUF
+2025.03 ~ 2026.04   SOUF
 2025.03 ~ 2025.08   KB IT’s Your Life
 2024.09 ~ 2026.02   TAVE
 ```
